@@ -14,9 +14,9 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 5 | CI/CD with Cloud Native Tooling |  &#9744;
 
 ## Status Definitions
- &#9744; Means that that the particular Chapter is not statrted yet <br>
- &#9746; Means that the particular Chapter is under progress <br>
- &#9745; Means that the particular Chapter is completed
+ &#9744; Means that the particular Chapter is not started yet 👍 <br>
+ &#9746; Means that the particular Chapter is under progress 👨‍💻 <br>
+ &#9745; Means that the particular Chapter is completed 🎉
  
  ## Want to Contribute?
  Fork the repo and send PRs.
