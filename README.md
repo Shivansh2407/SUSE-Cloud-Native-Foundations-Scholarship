@@ -7,7 +7,7 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 
 ✨| Udacity SUSE Cloud Native Fundamentals Scholarship Program Nanodegree Program | Status
 --- | ---| ---
-1 | Introduction to Cloud Native Fundamentals |  &#9744;
+1 | Introduction to Cloud Native Fundamentals |  &#9745;
 2 | Architecture Consideration for Cloud Native Applications |  &#9744;
 3 | Container Orchestration with Kubernetes |  &#9744;
 4 | Open Source PaaS |  &#9744;
@@ -17,6 +17,9 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  &#9744; Means that the particular Chapter is not started yet 👍 <br>
  &#9746; Means that the particular Chapter is under progress 👨‍💻 <br>
  &#9745; Means that the particular Chapter is completed 🎉
+ 
+## Tools Checklist
+Make sure you have setup all the required tools to get started with this course as listed [here](https://github.com/Shivansh2407/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/Tools.md).
  
  ## Want to Contribute?
  Fork the repo and send PRs.
