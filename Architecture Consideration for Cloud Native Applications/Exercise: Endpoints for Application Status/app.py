@@ -31,7 +31,7 @@ def metrics():
 def hello():
     app.logger.info('Main request successfull')
 
-    return "Hello World!"
+    return "Hello World! Welcome to Shivansh's Solution"
 
 if __name__ == "__main__":
     logging.basicConfig(filename='app.log',level=logging.DEBUG)
